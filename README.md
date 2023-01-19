@@ -22,7 +22,7 @@ Applications and Network Security: Networks and Routing, IPSEC, SSL/TLS](https:/
   - [Studying Computer Architecture with focus on topics such as Data representation and computer arithmetic, Assembly language programming, Boolean algebra, Basic digital logic design, Processor design, Cache design](https://github.com/BGafo/Computer-Architecture)
   
 
-<h2> Cybersecurity Projects</h2>
+<h2> IT management projects</h2>
 
 - [Active Directory Bulk User Creation](link_here)
 
