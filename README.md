@@ -24,7 +24,7 @@ Applications and Network Security: Networks and Routing, IPSEC, SSL/TLS](https:/
 
 <h2> IT management projects</h2>
 
-- [Active Directory Bulk User Creation](link_here)
+- [Active Directory Bulk User Creation](https://github.com/BGafo/ActiveDirectory_PowerShell)
 
 <h2> Connect with me:</h2>
 
